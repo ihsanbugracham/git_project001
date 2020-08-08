@@ -8,7 +8,7 @@ public class FirstClass {
 		System.out.println("Now I am on my ihsan branch");
 		System.out.println("I want to have a conflict");
 
-		System.out.println("I want to have another conflict");
+		System.out.println("I want to have another conflict.");
 
 	}
 }
